@@ -213,5 +213,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-Your Name - Sambhav v namanna 
+Sambhav v namanna 
 sambhavnamanna@gmail.com
