@@ -1,0 +1,2 @@
+use (python -m pip install -r requirements.txt) for installing dependencies
+use python -m streamlit run app.py to run
