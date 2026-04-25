@@ -5,7 +5,7 @@ A machine learning-powered stock analysis and trading simulation platform that u
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35.0-red.svg)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.0.3-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Sambhavvn/Stock-price-predictor/blob/main/LISCENSE)
 
 ## Features
 
