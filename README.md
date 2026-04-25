@@ -20,23 +20,6 @@ A machine learning-powered stock analysis and trading simulation platform that u
 - **Live Scanner**: Monitor 30+ stocks for trading opportunities
 - **Performance Metrics**: Win rate, Sharpe ratio, max drawdown, equity curves
 
-## Screenshots
-
-### Analysis Dashboard
-```
-[Screenshot Placeholder - Add screenshot of the Analysis page showing stock chart and metrics]
-```
-
-### Live Scanner
-```
-[Screenshot Placeholder - Add screenshot of the Live Scanner showing multiple stock signals]
-```
-
-### Strategy Performance
-```
-[Screenshot Placeholder - Add screenshot of equity curve and performance metrics]
-```
-
 ## Tech Stack
 
 - **Python 3.8+**
